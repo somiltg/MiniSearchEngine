@@ -1,0 +1,52 @@
+@group Mini project - CS 532- Group 13.
+Test results after running the final program : start_query_server.py
+
+Queried term = kinEsiOlogy
+Query structure: localhost:5900/search?query=kinEsiOlogy
+Results:
+"https://www.umass.edu/nursing/research/faculty-research-interests"
+"http://www.umass.edu/gateway/academics/schools-and-colleges"
+"https://www.umass.edu/gateway/academics/schools-and-colleges"
+"http://www.umass.edu/gateway/academics/schools-and-colleges#main-content"
+"https://www.umass.edu/summer/programs-overview/educationusa-academy"
+"https://www.umass.edu/sphhs-online/about"
+
+
+Queried term = PVTA
+Query structure: localhost:5900/search?query=PVTA
+Results:
+"https://www.umass.edu/transportation/node"
+"https://www.umass.edu/newsoffice/article/my-umass-app-puts-resources-students%E2%80%99#main-content"
+"https://www.umass.edu/transportation/pvta-buses"
+"https://www.umass.edu/newsoffice/article/my-umass-app-puts-resources-students%E2%80%99"
+
+
+Queried term = twitteado 
+Query structure: localhost:5900/search?query=twitteado
+Results:
+"https://twitter.com/reserved4kiyah?lang=es#timeline"
+"https://twitter.com/bigmacher?lang=es#timeline"
+"https://twitter.com/YIbukun?lang=es#timeline"
+"https://twitter.com/CNN?lang=es"
+"https://twitter.com/CNNTonight?lang=es"
+"https://twitter.com/520Sammy?lang=es"
+"https://twitter.com/reserved4kiyah?lang=es"
+"https://twitter.com/YIbukun?lang=es"
+"https://twitter.com/bigmacher?lang=es"
+"https://twitter.com/Acidic_Blonde?lang=es"
+"https://twitter.com/ChihulyStudio?lang=es"
+"https://twitter.com/businessinsider?lang=es"
+"https://twitter.com/AlumniUMass?lang=es"
+
+
+Queried term = obesity diabetes 
+Query structure: localhost:5900/search?query=obesity diabetes
+Results:
+"http://www.bbc.co.uk/health/"
+"https://www.bbc.co.uk/news/health"
+"https://www.umass.edu/nursing/research/faculty-research-interests"
+"https://www.bbc.com/news/business-49090754"
+"http://www.umass.edu/gateway/academics/schools-and-colleges"
+"https://www.bbc.com/news/health"
+"https://www.umass.edu/gateway/academics/schools-and-colleges"
+"http://www.umass.edu/gateway/academics/schools-and-colleges#main-content"
