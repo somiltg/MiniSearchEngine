@@ -1,4 +1,5 @@
-# COMPSCI532_Project1 - Group 13
+# Miniature Search engine over spark
+#### COMPSCI532_Project1 - Group 13
 
 ## Team members- 
 1. Somil Gupta - somilgupta@umass.edu   
